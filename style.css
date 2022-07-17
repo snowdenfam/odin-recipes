@@ -17,6 +17,15 @@ border: 1px solid black;
 
 }
 
+/*this section is for changing image elements and attributes*/
+.chicken{
+
+    height:auto;
+     width: 500px;
+    border: 1px solid black;
+    
+    }
+
 .mac{
 
     height:auto;
