@@ -18,6 +18,13 @@ border: 1px solid black;
 }
 
 /*this section is for changing image elements and attributes*/
+.greens{
+
+    height:auto;
+     width: 500px;
+    border: 1px solid black;
+    
+    }
 .chicken{
 
     height:auto;
