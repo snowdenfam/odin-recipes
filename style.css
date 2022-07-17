@@ -54,6 +54,22 @@ border: 1px solid black;
         display: inline-block;
         text-align: left;
       }
+      .pie{
 
+        height:auto;
+         width: 500px;
+        border: 1px solid black;
+        
+        }
+    
+         .container {
+            text-align: center;
+            color:black
+          }
+          
+          ul.myUL {
+            display: inline-block;
+            text-align: left;
+          }
 
 
