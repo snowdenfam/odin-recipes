@@ -29,6 +29,10 @@ width: 50%;
     height:auto;
      width: 100px;
     border: 1px solid black;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
     
     }
 .chicken{
@@ -36,6 +40,10 @@ width: 50%;
     height:auto;
      width: 100px;
     border: 1px solid black;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
     
     }
 
@@ -44,6 +52,10 @@ width: 50%;
     height:auto;
      width: 100px;
     border: 1px solid black;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
     
     }
 
@@ -61,6 +73,10 @@ width: 50%;
         height:auto;
          width: 100px;
         border: 1px solid black;
+        display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
         
         }
     
@@ -74,12 +90,6 @@ width: 50%;
             text-align: left;
           }
 
-          .soul.food{
-
-            height:;
-            
-            width: 400px;
-            border: 1px solid black;
-            
-            }
+          
+          
 
