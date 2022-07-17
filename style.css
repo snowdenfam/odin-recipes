@@ -13,7 +13,7 @@ body {
   
 
 .soulfood{
-height:auto;
+height:400px;
 width: 300px;
 border: 1px solid black;
 display: block;
@@ -27,7 +27,7 @@ width: 50%;
 .greens{
 
     height:auto;
-     width: 100px;
+     width: 400px;
     border: 1px solid black;
     display: block;
 margin-left: auto;
@@ -38,7 +38,7 @@ width: 50%;
 .chicken{
 
     height:auto;
-     width: 100px;
+     width: 400px;
     border: 1px solid black;
     display: block;
 margin-left: auto;
@@ -50,7 +50,7 @@ width: 50%;
 .mac{
 
     height:auto;
-     width: 100px;
+     width: 400px;
     border: 1px solid black;
     display: block;
 margin-left: auto;
@@ -71,7 +71,7 @@ width: 50%;
       .pie{
 
         height:auto;
-         width: 100px;
+         width: 400px;
         border: 1px solid black;
         display: block;
 margin-left: auto;
