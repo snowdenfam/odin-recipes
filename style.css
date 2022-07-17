@@ -1,7 +1,12 @@
 div {
+
     
     
 }
+body {
+    background-color: rgba(255, 166, 0, 0.336);
+  }
+
 
 .soul.food{
 
@@ -11,6 +16,24 @@ width: 400px;
 border: 1px solid black;
 
 }
+
+.mac{
+
+    height:auto;
+     width: 500px;
+    border: 1px solid black;
+    
+    }
+
+     .container {
+        text-align: center;
+        color:black
+      }
+      
+      ul.myUL {
+        display: inline-block;
+        text-align: left;
+      }
 
 
 
